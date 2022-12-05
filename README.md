@@ -34,7 +34,7 @@ print(d("Rajaa"))
 
 #### Output
 
-![ss2]foto/ss2.png
+![ss2](foto/ss2.png)
 
 
 ### TUGAS PRAKTIKUM
@@ -135,7 +135,7 @@ while True:
 
 ## Output
 
-![ss1]foto/ss1.png
+![ss1](foto/ss1.png)
 ## Flowchart
 
 
