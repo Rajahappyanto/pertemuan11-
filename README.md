@@ -1,11 +1,10 @@
 # pertemuan11
 
-```s
+
 Nama   : Raja Happyanto
 Nim    : 312210235
 Ruangan : TI.22.A2
 BAHASA PEMOGRAMAN
-```
 
 # Practice 1
 ## Mengubah code lambda
