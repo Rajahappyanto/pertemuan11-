@@ -138,5 +138,7 @@ while True:
 ![ss1](foto/ss1.png)
 ## Flowchart
 
+![ss1](ss1.png)
+
 
 
